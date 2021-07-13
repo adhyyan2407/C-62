@@ -1,0 +1,26 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#slideshow {
+    background-color: aquamarine;
+}
+
+#slideshow img {
+    height: 300px;
+    margin-top: 30px;
+}
+
+#slideshow p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgba(68, 60, 25, 1);
+    font-size: 20px;
+}
